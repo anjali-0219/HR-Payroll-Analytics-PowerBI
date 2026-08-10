@@ -248,9 +248,13 @@ HR-Payroll-PowerBI/
     ├── employee_drillthrough.png
     └── department_analysis.png
 
+
 ## 👩‍💻 Author
 
 **Anjali Patnaik**
+
+GitHub: https://github.com/anjali-0219
+
 
 **Project:** HR & Payroll Analytics Dashboard  
 **Domain:** Human Resources & Payroll Analytics  
